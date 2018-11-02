@@ -100,4 +100,4 @@ function makeFunctionArray(){
 
 const array = makeFunctionArray()
 
-array[0]()
+array[0]() // it returns a 5 instead of the 0 expected
